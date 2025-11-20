@@ -62,14 +62,18 @@ Key ideas:
 From the project folder:
 
 python image_blur_convolution.py
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 This will:
 
-Print the original 5×5 image and the 3×3 blurred output in the terminal.
+- Print the original 5×5 image and the 3×3 blurred output in the terminal.
 
-Open a Matplotlib window showing:
+- Open a Matplotlib window showing:
 
-Left: original image (5×5)
+- Left: original image (5×5)
 
-Right: blurred image (3×3) after valid convolution.
+- Right: blurred image (3×3) after valid convolution.
+
+- 
 <img width="922" height="439" alt="Screenshot 2025-11-20 125402" src="https://github.com/user-attachments/assets/01de8d92-8771-4af1-ad61-ba284a24ff91" />
 
