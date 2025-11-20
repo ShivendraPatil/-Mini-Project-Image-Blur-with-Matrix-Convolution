@@ -20,4 +20,5 @@ Convolution = elementwise multiply + sum over each local patch
 
 
 Average kernel → blur / smoothing
-<img width="878" height="434" alt="Screenshot 2025-11-20 124734" src="https://github.com/user-attachments/assets/7d64a539-7472-4a44-a919-1354ebc480a6" />
+<img width="922" height="439" alt="Screenshot 2025-11-20 125402" src="https://github.com/user-attachments/assets/01de8d92-8771-4af1-ad61-ba284a24ff91" />
+
