@@ -75,5 +75,5 @@ This will:
 - Right: blurred image (3×3) after valid convolution.
 
 - 
-<img width="922" height="439" alt="Screenshot 2025-11-20 125402" src="https://github.com/user-attachments/assets/01de8d92-8771-4af1-ad61-ba284a24ff91" />
+<img width="922" height="439" alt="Screenshot 2025-11-20 125402" src="https://github.com/user-attachments/assets/aabfa227-e4a9-4223-91f9-c313a95ea43c" />
 
